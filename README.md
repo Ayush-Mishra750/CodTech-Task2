@@ -1,2 +1,2 @@
 # CodTech-Task2
-Weather forecast App
+ This is the Weather forecast App using HTML,CSS AND JAVASCRIPT..
